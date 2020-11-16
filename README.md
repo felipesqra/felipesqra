@@ -6,5 +6,5 @@ I'm a Computere Science student at the Federal University of Campina Grande. Ope
 
 
 Here are some personal and open source projects that I loved contributing:
-* [Flex Grid](https://github.com/SPLAB-UFCG/Moenda)
+* [Moenda - SPLAB](https://github.com/SPLAB-UFCG/Moenda)
 
