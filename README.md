@@ -7,4 +7,7 @@ I'm a Computere Science student at the Federal University of Campina Grande. Ope
 
 Here are some personal and open source projects that I loved contributing:
 * :wrench: [Moenda - SPLAB](https://github.com/SPLAB-UFCG/Moenda)
+* :iphone: [Rodolfo](https://github.com/felipesqra/Rodolfo)
+* :trophy: [Resolução de questões de maratona](https://github.com/felipesqra/Resolucao-de-questoes-de-maratona)
+* :dollar: [Black Money Tracking - my secondary account](https://github.com/blackmoneytracking/blackmoneytracking.github.io)
 
