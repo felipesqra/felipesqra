@@ -1,5 +1,5 @@
 ### Hi there 👋, i'm Felipe Siqueira
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F375206212681302825%2F&psig=AOvVaw2GEJKikKXnQxbbBcuJ86vH&ust=1605627437552000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDVyLyyh-0CFQAAAAAdAAAAABAD)
 I'm a Computere Science student at the Federal University of Campina Grande. Open source is the eighth wonder of the world.
 
 [![Bruno Pulis github stats](https://github-readme-stats.vercel.app/api?username=felipesqra)](https://github.com/brunopulis/github-readme-stats)
