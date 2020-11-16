@@ -4,3 +4,7 @@ I'm a Computere Science student at the Federal University of Campina Grande. Ope
 
 [![Bruno Pulis github stats](https://github-readme-stats.vercel.app/api?username=felipesqra)](https://github.com/brunopulis/github-readme-stats)
 
+
+Here are some personal and open source projects that I loved contributing:
+* [Flex Grid](https://github.com/SPLAB-UFCG/Moenda)
+
