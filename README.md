@@ -2,7 +2,6 @@ Felipe Siqueira
 
 ### I'm a Computere Science student at the Federal University of Campina Grande.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesqra&show_icons=true&theme=dark) 
 
 ### Here are some personal and open source projects that I loved contributing:
 * :cookie: [Tá de pé - Lab Analytics/UFCG](https://github.com/analytics-ufcg/ta-de-pe)
