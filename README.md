@@ -1,6 +1,6 @@
 Felipe Siqueira
 
-### I'm a Computere Science student at the Federal University of Campina Grande.
+### I'm a Computer Science student at the Federal University of Campina Grande.
 
 
 ### Here are some personal and open source projects that I loved contributing:
